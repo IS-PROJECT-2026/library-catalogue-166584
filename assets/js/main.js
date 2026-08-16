@@ -26,3 +26,5 @@ function renderBooks(booksToRender) {
 }
 
 renderBooks(books);
+// Added new helper feature
+function logLibraryStatus() { console.log("Library system active"); }
