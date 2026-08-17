@@ -41,10 +41,10 @@
 ## 4. Screenshots of Key GitHub Features
 
 ### A. Milestones and Issues
-![Milestones and Issues]
-(evidence/milestone_screenshot1.png)
-(evidence/milestone_screenshot2.png)
-(evidence/milestone_screenshot3.png)
+### A. Milestones and Issues
+![Milestones and Issues 1](evidence/milestone_screenshot1.png)
+![Milestones and Issues 2](evidence/milestone_screenshot2.png)
+![Milestones and Issues 3](evidence/milestone_screenshot3.png)
 
 * Active milestones configured with granular task tracking issues.
 
